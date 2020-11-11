@@ -1,1 +1,2 @@
-# api_minecraft_flask
+# basic-api-flask
+A basic example of an api created with flask framework
